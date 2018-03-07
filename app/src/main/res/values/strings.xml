@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+    <string name="title">Seleccione los colores de cada banda</string>
+    <string name="display"></string>
+</resources>
