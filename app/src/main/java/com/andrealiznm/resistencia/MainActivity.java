@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public class show {
-        //banda3 en pos 2 es vacio -> solucionar
+        //banda3 en pos 2 es vacio -> solucionar .
         public void main (){
             if(banda1.isEmpty() || banda2.isEmpty() || banda3.isEmpty() || banda4.isEmpty()){
                 eDisplay.setText("");
